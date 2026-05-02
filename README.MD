@@ -3,6 +3,7 @@
 A collection of Python scripts for network reconnaissance — port scanning, host discovery, and host reachability checks.
 
 > ⚠️ **Legal Notice:** Use these tools only on networks and systems you own or have explicit permission to test.
+>  **PLEASE FREE TO HELP ME**
 
 ---
 
